@@ -113,7 +113,7 @@ salixlife/
 
 ## 📝 라이선스
 
-© 2025 SALIX LIFE. All rights reserved.
+© 2025 TRISID.
 
 ## 🤝 기여하기
 
@@ -121,5 +121,4 @@ salixlife/
 
 ## 📞 문의
 
-- 이메일: info@salixlife.com
-- 주소: 경기도 고양시 덕양구 소원로 227 포스콤타워 5층
+- 이메일: co.most.key@gmail.com
