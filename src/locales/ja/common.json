@@ -1,0 +1,118 @@
+{
+  "nav": {
+    "products": "製品紹介",
+    "technology": "技術革新",
+    "about": "会社紹介",
+    "research": "研究開発",
+    "contact": "お問い合わせ"
+  },
+  "home": {
+    "hero": {
+      "title": "SALIX O²",
+      "subtitle": "命を守る最小の革新",
+      "description": "最先端技術と科学的研究を通じて呼吸技術の未来を先導します。",
+      "cta": {
+        "products": "製品詳細を見る",
+        "about": "技術仕様確認",
+        "learnMore": "詳しく見る"
+      }
+    },
+    "dashboard": {
+      "product": "製品紹介",
+      "market": "市場分析",
+      "company": "会社情報",
+      "features": "主要機能",
+      "media": "メディア",
+      "backToHome": "ホームに戻る"
+    },
+    "sections": {
+      "productLine": "SALIX O²シリーズ",
+      "productSubtitle": "製品ラインナップ",
+      "globalStrategy": "グローバル市場戦略",
+      "marketSubtitle": "市場分析・戦略",
+      "companyInfo": "サリックスライフ",
+      "companySubtitle": "会社紹介",
+      "innovativeFeatures": "革新的な機能",
+      "featuresSubtitle": "主要特徴",
+      "mediaCenter": "メディアセンター",
+      "mediaSubtitle": "動画・ニュース"
+    },
+    "mission": {
+      "title": "命を守る安全な呼吸",
+      "description": "サリックスライフは2024年に設立された携帯用呼吸技術専門企業です。京畿道高陽市徳陽区に位置し、革新的な呼吸技術で人類の安全と健康を先導します。"
+    },
+    "features": {
+      "title": "革新的な呼吸技術",
+      "badges": {
+        "capacity": "50倍大容量",
+        "duration": "2時間連続",
+        "price": "1/30価格",
+        "competitor": "競合他社比"
+      },
+      "status": {
+        "innovation": "革新進行中",
+        "launch": "2025年発売"
+      },
+      "portable": {
+        "title": "超小型携帯性",
+        "description": "いつでもどこでも携帯できるコンパクトなデザイン"
+      },
+      "affordable": {
+        "title": "合理的な価格",
+        "description": "月29,700ウォンで40Lの酸素を充填できるサブスクリプションモデル"
+      },
+      "smart": {
+        "title": "スマート技術",
+        "description": "スマートフォンアプリと連動した使用パターン分析および個人カスタマイズサービス"
+      }
+    },
+    "global": {
+      "title": "グローバル市場戦略",
+      "nepal": {
+        "title": "ネパールトレッキング市場",
+        "description": "高山病ソリューション専門",
+        "rental": "レンタルモデル：$100保証金、$50使用料"
+      },
+      "japan": {
+        "title": "日本エンターテインメント市場",
+        "description": "グッズ・ファンダム文化活用",
+        "partnership": "J-ROCKパートナーシップ完了"
+      }
+    },
+    "partnership": {
+      "title": "戦略的パートナーシップ",
+      "united": "ユナイテッド資産運用",
+      "jrock": "J-ROCK芸能企画",
+      "nepal": "ネパール現地パートナー"
+    }
+  },
+  "theme": {
+    "toggle": {
+      "light": "ライトモードに切り替え",
+      "dark": "ダークモードに切り替え"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} SALIX Life. All rights reserved.",
+    "address": "京畿道高陽市徳陽区小願路227 ポスコムタワー5階",
+    "companyDescription": "命を守る最も小さな革新",
+    "products": {
+      "title": "製品",
+      "productIntro": "製品紹介",
+      "techInnovation": "技術革新",
+      "safety": "安全性"
+    },
+    "company": {
+      "title": "会社",
+      "aboutUs": "会社案内",
+      "investors": "投資家情報",
+      "contact": "お問い合わせ"
+    },
+    "investorAlert": {
+      "title": "準備中です",
+      "message": "投資家情報ページは現在準備中です。",
+      "submessage": "投資情報については、サイトに記載のメールアドレスまでお問い合わせください。",
+      "confirm": "確認"
+    }
+  }
+} 

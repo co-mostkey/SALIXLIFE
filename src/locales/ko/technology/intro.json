@@ -1,0 +1,76 @@
+{
+  "introData": {
+    "title": "기술혁신 소개",
+    "subtitle": "SALIX TECHNOLOGY",
+    "mainTitle": "혁신적인 기술력",
+    "description": "첨단 소재 기술과 정밀 엔지니어링이 만나 호흡 기술의 새로운 표준을 제시합니다.",
+    "badge": "Technology Innovation",
+    "titleParts": {
+      "prefix": "혁신적인",
+      "main": "기술력"
+    },
+    "cards": [
+      {
+        "title": "초경량, 대용량",
+        "subtitle": "Innovation",
+        "description": "일반 휴대용 산소제품 대비 50배 대용량",
+        "metric": "50X",
+        "status": "자사 기술"
+      },
+      {
+        "title": "연속 공급",
+        "subtitle": "High Performance",
+        "description": "규격대비 최대 연속 공급",
+        "metric": "2시간",
+        "status": "검증 완료"
+      },
+      {
+        "title": "용도별 산소 충전",
+        "subtitle": "Medical Grade",
+        "description": "의료용 등급까지 고순도 산소 충전",
+        "metric": "21~99.9%",
+        "status": "용도별 충전"
+      },
+      {
+        "title": "정밀 제어",
+        "subtitle": "Precision Control",
+        "description": "독자적 3단계 정밀 유량 조절 디스펜서",
+        "metric": "3단계",
+        "status": "자사 기술"
+      },
+      {
+        "title": "기술 포트폴리오",
+        "subtitle": "Patent Portfolio",
+        "description": "수년간 핵심 기술 포트폴리오",
+        "metric": "특허, 기술증명",
+        "status": "포트폴리오"
+      },
+      {
+        "title": "R&D 엔지니어링",
+        "subtitle": "International Standard",
+        "description": "기술선도 연구 및 개발",
+        "metric": "R&D",
+        "status": "기술 기반"
+      },
+      {
+        "title": "경제적 가격",
+        "subtitle": "Cost Efficiency",
+        "description": "가격 최적화 및 경제성",
+        "metric": "1/30",
+        "status": "경제성"
+      },
+      {
+        "title": "대용량 설계",
+        "subtitle": "High Capacity",
+        "description": "카본 복합소재 초경량 최대용량",
+        "metric": "40L",
+        "status": "업계 최고"
+      }
+    ],
+    "common": {
+      "verified": "검증 완료",
+      "dataLoading": "데이터 로딩 중",
+      "loadingMessage": "기술 소개 카드를 불러오고 있습니다..."
+    }
+  }
+} 

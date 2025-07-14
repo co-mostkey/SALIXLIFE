@@ -1,0 +1,68 @@
+{
+  "contact": {
+    "title": "문의하기",
+    "subtitle": "제품 정보, 구독 서비스, 기술 협력 등 다양한 문의를 받고 있습니다.",
+    "form": {
+      "name": {
+        "label": "이름",
+        "placeholder": "이름을 입력하세요"
+      },
+      "email": {
+        "label": "이메일",
+        "placeholder": "이메일을 입력하세요"
+      },
+      "phone": {
+        "label": "전화번호",
+        "placeholder": "전화번호를 입력하세요"
+      },
+      "subject": {
+        "label": "문의 유형",
+        "placeholder": "문의 유형을 선택하세요",
+        "options": {
+          "product": "제품 문의",
+          "subscription": "구독 서비스 문의",
+          "partnership": "제휴 및 협력 문의",
+          "investment": "투자 문의",
+          "other": "기타 문의"
+        }
+      },
+      "message": {
+        "label": "문의 내용",
+        "placeholder": "문의 내용을 입력하세요"
+      },
+      "submit": "문의하기",
+      "submitting": "전송 중...",
+      "required": "필수 입력 항목"
+    },
+    "success": {
+      "title": "문의가 성공적으로 접수되었습니다!",
+      "message": "빠른 시일 내에 연락드리겠습니다.",
+      "newInquiry": "새 문의하기"
+    },
+    "info": {
+      "title": "연락처 정보",
+      "address": {
+        "label": "주소",
+        "line1": "경기도 고양시 덕양구 소원로 227",
+        "line2": "포스콤타워 5층"
+      },
+      "email": {
+        "label": "이메일",
+        "value": "info@salixlife.com"
+      },
+      "phone": {
+        "label": "전화",
+        "value": "010-0000-0000"
+      },
+      "hours": {
+        "label": "업무 시간",
+        "weekday": "평일: 오전 9시 - 오후 6시",
+        "weekend": "주말 및 공휴일: 휴무"
+      }
+    },
+    "meta": {
+      "title": "문의하기 | SALIX Life",
+      "description": "샐릭스 라이프에 문의하세요. 제품 정보, 구독 서비스, 기술 협력 등 다양한 문의를 받고 있습니다."
+    }
+  }
+} 

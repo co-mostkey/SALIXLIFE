@@ -1,0 +1,83 @@
+{
+  "futureVisionData": {
+    "title": "미래 비전",
+    "subtitle": "FUTURE VISION",
+    "mainTitle": "기술 혁신의 미래",
+    "description": "끊임없는 연구개발을 통해 호흡 기술 분야의 글로벌 리더로 도약합니다",
+    "badge": "Future Vision",
+    "titleParts": {
+      "prefix": "기술 혁신의",
+      "main": "미래"
+    },
+    "futureTech": [
+      {
+        "title": "AI 기반 최적화",
+        "description": "인공지능을 활용한 개인 맞춤형 산소 공급 시스템 개발",
+        "color": "from-gray-400 to-gray-600",
+        "bgColor": "from-white to-gray-50",
+        "borderColor": "border-gray-200",
+        "status": "개발 중"
+      },
+      {
+        "title": "IoT 연결성",
+        "description": "사물인터넷 기술로 실시간 건강 모니터링 및 데이터 분석",
+        "color": "from-slate-400 to-slate-600",
+        "bgColor": "from-white to-slate-50",
+        "borderColor": "border-slate-200",
+        "status": "계획 중"
+      },
+      {
+        "title": "나노 기술 응용",
+        "description": "나노 소재 기술을 통한 더욱 경량화되고 효율적인 시스템",
+        "color": "from-zinc-400 to-zinc-600",
+        "bgColor": "from-white to-zinc-50",
+        "borderColor": "border-zinc-200",
+        "status": "연구 중"
+      },
+      {
+        "title": "웨어러블 통합",
+        "description": "스마트워치, 피트니스 트래커와의 완벽한 통합 솔루션",
+        "color": "from-neutral-400 to-neutral-600",
+        "bgColor": "from-white to-neutral-50",
+        "borderColor": "border-neutral-200",
+        "status": "설계 중"
+      }
+    ],
+    "roadmap": [
+      {
+        "year": "2025",
+        "title": "3개국 진출 파트너십",
+        "description": "용도별 맞춤 산소 공급 제품 상용화",
+        "status": "진행 중",
+        "color": "from-gray-500 to-gray-700"
+      },
+      {
+        "year": "2026",
+        "title": "글로벌 확장",
+        "description": "북미, 유럽 시장 진출 및 현지화 완료",
+        "status": "계획 중",
+        "color": "from-slate-500 to-slate-700"
+      },
+      {
+        "year": "2027",
+        "title": "차세대 플랫폼",
+        "description": "통합 헬스케어 플랫폼 구축 및 서비스 확장",
+        "status": "개발 중",
+        "color": "from-zinc-500 to-zinc-700"
+      },
+      {
+        "year": "2028",
+        "title": "혁신 기술 도입",
+        "description": "나노 기술 및 첨단 소재 기술 확보 및 상용화",
+        "status": "연구 중",
+        "color": "from-neutral-500 to-neutral-700"
+      }
+    ],
+    "common": {
+      "verified": "검증 완료",
+      "inProgress": "진행 중",
+      "roadmap": "로드맵",
+      "futureTech": "미래 기술"
+    }
+  }
+} 

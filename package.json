@@ -1,0 +1,41 @@
+{
+  "name": "salixlife",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.88.4",
+    "@react-three/fiber": "^8.15.12",
+    "@types/formidable": "^3.4.5",
+    "@types/jsonwebtoken": "^9.0.10",
+    "formidable": "^3.5.4",
+    "framer-motion": "^12.23.1",
+    "i18next": "^25.3.2",
+    "jsonwebtoken": "^9.0.2",
+    "next": "^14.2.30",
+    "next-i18next": "^15.4.2",
+    "quill": "^2.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^15.6.0",
+    "react-quill": "^2.0.0",
+    "three": "^0.159.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.7",
+    "@types/react": "^18.3.23",
+    "@types/react-dom": "^18",
+    "@types/three": "^0.159.0",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.54.0",
+    "eslint-config-next": "14.0.3",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "typescript": "^5.8.3"
+  }
+}

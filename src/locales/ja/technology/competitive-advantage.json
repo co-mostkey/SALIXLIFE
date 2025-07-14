@@ -1,0 +1,71 @@
+{
+  "competitiveAdvantageData": {
+    "title": "競争優位",
+    "subtitle": "競争優位",
+    "mainTitle": "革新的技術優位",
+    "description": "競合他社比圧倒的性能と革新的技術力を確認",
+    "badge": "競争優位",
+    "titleParts": {
+      "prefix": "技術",
+      "main": "優位"
+    },
+    "comparisonTitle": "性能比較分析",
+    "data": [
+      {
+        "label": "酸素容量",
+        "ours": 100,
+        "others": 2,
+        "ourValue": "40L",
+        "theirValue": "0.8L",
+        "color": "from-gray-400 to-gray-600"
+      },
+      {
+        "label": "連続供給時間",
+        "ours": 100,
+        "others": 8,
+        "ourValue": "2時間",
+        "theirValue": "10分",
+        "color": "from-gray-500 to-gray-700"
+      },
+      {
+        "label": "重量",
+        "ours": 100,
+        "others": 40,
+        "ourValue": "超軽量",
+        "theirValue": "重い",
+        "color": "from-slate-400 to-slate-600"
+      },
+      {
+        "label": "携帯性",
+        "ours": 100,
+        "others": 30,
+        "ourValue": "優秀",
+        "theirValue": "制限的",
+        "color": "from-zinc-400 to-zinc-600"
+      },
+      {
+        "label": "ユーザー体験",
+        "ours": 100,
+        "others": 10,
+        "ourValue": "直感的",
+        "theirValue": "複雑",
+        "color": "from-neutral-400 to-neutral-600"
+      },
+      {
+        "label": "価格競争力",
+        "ours": 100,
+        "others": 3,
+        "ourValue": "手頃",
+        "theirValue": "高価",
+        "color": "from-stone-400 to-stone-600"
+      }
+    ],
+    "common": {
+      "ours": "SALIX O²",
+      "competitors": "競合他社",
+      "advantage": "優位確保",
+      "verified": "検証済み",
+      "performanceVerification": "性能検証"
+    }
+  }
+} 

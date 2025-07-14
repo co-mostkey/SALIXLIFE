@@ -1,0 +1,214 @@
+{
+  "title": "製品紹介",
+  "description": "サリックスライフの革新的な呼吸器製品群を紹介します。携帯用呼吸器、インイヤー型呼吸器、接続ホースなど様々な製品をご覧ください。",
+  "common": {
+    "specs": {
+      "cylinderVolume": "200cc",
+      "pressure": "200bar",
+      "oxygenCapacity": "40L",
+      "weight": "超軽量",
+      "purity": "99.9% - 酸素濃度調整可能",
+      "duration": "2時間連続 - 容量比",
+      "capacity_multiplier": "50倍",
+      "price_advantage": "経済性革新"
+    },
+    "features": {
+      "capacity": "200cc基本製品基準50倍大容量で競合他社比50倍多い酸素",
+      "duration": "2時間連続供給可能",
+      "price": "独自の3段階ディスペンサーおよびカーボン複合素材で、超小型、超軽量革新",
+      "design": "全世代を包含するモダン、レトロフューチャリズムデザイン",
+      "control": "世界初超軽量携帯用酸素の3段階精密流量調節"
+    }
+  },
+  "innovations": [
+    {
+      "title": "50倍大容量革新",
+      "description": "40L大容量で競合他社比最大50倍多い酸素、2時間連続供給可能",
+      "icon": "🚀"
+    },
+    {
+      "title": "環境に優しい、経済性革新",
+      "description": "環境に優しいビジネスモデル、既存酸素利用者の活動を制限しない革新",
+      "icon": "💎"
+    },
+    {
+      "title": "レトロフューチャリズムインイヤー型酸素供給器",
+      "description": "インイヤー形態の鼻腔供給器、超軽量複合材高圧容器",
+      "icon": "🎨"
+    },
+    {
+      "title": "3段階精密流量調節",
+      "description": "世界初携帯用酸素の3段階精密流量調節、用途別カスタマイズ供給",
+      "icon": "⚙️"
+    }
+  ],
+  "slides": {
+    "intro": {
+      "title": "技術革新紹介"
+    },
+    "coreInnovations": {
+      "title": "核心革新"
+    },
+    "techSpecs": {
+      "title": "技術仕様"
+    },
+    "competitiveAdvantage": {
+      "title": "競争優位"
+    },
+    "futureVision": {
+      "title": "未来ビジョン"
+    }
+  },
+  "comparison": {
+    "categories": [
+      {
+        "label": "酸素容量",
+        "ours": 100,
+        "others": 2,
+        "ourValue": "40L",
+        "theirValue": "0.8L",
+        "unit": "L"
+      },
+      {
+        "label": "連続供給時間",
+        "ours": 100,
+        "others": 8,
+        "ourValue": "2時間",
+        "theirValue": "10分",
+        "unit": "時間"
+      },
+      {
+        "label": "価格競争力",
+        "ours": 100,
+        "others": 3,
+        "ourValue": "1/30レベル",
+        "theirValue": "高価",
+        "unit": ""
+      }
+    ]
+  },
+  "device": {
+    "name": "SALIX O2シリンダー",
+    "subtitle": "Salix Trek-Safe Oxygen",
+    "description": "火災現場、密閉空間、高山地帯、医療緊急状況などで即座に活用可能な革新的な呼吸器機です。",
+    "features": [
+      "200cc容積、200bar圧力",
+      "超軽量デザイン",
+      "安定時40分以上使用",
+      "トレッキング使用者位置追跡および安全アラート更新予定"
+    ],
+    "specs": {
+      "weight": "カーボン複合素材、超軽量モデル",
+      "capacity": "40L",
+      "duration": "40分+",
+      "pressure": "200bar"
+    },
+    "price": "₩297,000",
+    "originalPrice": "₩350,000"
+  },
+  "deviceear": {
+    "name": "インイヤー型呼吸器",
+    "subtitle": "Compact Ear-fit Design",
+    "description": "日常生活中に息苦しさを感じないよう設計された超小型呼吸補助装置です。",
+    "features": [
+      "人間工学的インイヤー設計",
+      "超軽量重量",
+      "トレッキング使用者用位置連動",
+      "既存携帯用酸素比連続使用時間優位"
+    ],
+    "specs": {
+      "weight": "超軽量デザイン",
+      "battery": "オプションによる選択",
+      "connectivity": "Bluetooth 5.0",
+      "waterproof": "IPX4"
+    },
+    "price": "₩149,000",
+    "originalPrice": "₩199,000"
+  },
+  "devicecontact": {
+    "name": "接続ホース",
+    "subtitle": "Professional Connection",
+    "description": "SALIX O2シリンダーとインイヤー型呼吸器を接続してより安定的な酸素供給を可能にします。",
+    "features": [
+      "医療用シリコン材質",
+      "自由な長さ選択",
+      "クイックコネクトシステム",
+      "高い耐久性"
+    ],
+    "specs": {
+      "material": "医療用シリコン",
+      "length": "0.5-2m選択可能",
+      "connection": "クイックコネクト",
+      "pressure": "医療グレード"
+    },
+    "price": "₩79,000",
+    "originalPrice": "₩99,000"
+  },
+  "ui": {
+    "currentSelection": "現在選択されたオプション",
+    "colorSelection": "カラー選択",
+    "materialSelection": "材質選択",
+    "mainFeatures": "主要特徴",
+    "techSpecs": "技術仕様",
+    "specialBenefits": "特別特典",
+    "benefits": [
+      "無料配送（全国）",
+      "1年無償A/S",
+      "30日無条件返金",
+      "専門家教育サービス"
+    ],
+    "zoomHint": "Ctrl + ホイール：ズームイン/アウト"
+  },
+  "colors": {
+    "silverMetal": "シルバーメタル",
+    "premiumGold": "プレミアムゴールド",
+    "deepBlack": "ディープブラック",
+    "sapphireBlue": "サファイアブルー",
+    "emerald": "エメラルド",
+    "roseGold": "ローズゴールド",
+    "titanium": "チタン",
+    "purpleHaze": "パープルヘイズ",
+    "crimsonRed": "クリムゾンレッド",
+    "oceanBlue": "オーシャンブルー",
+    "sunsetOrange": "サンセットオレンジ",
+    "forestGreen": "フォレストグリーン",
+    "lavender": "ラベンダー",
+    "coralPink": "コーラルピンク",
+    "midnightBlue": "ミッドナイトブルー",
+    "mintGreen": "ミントグリーン"
+  },
+  "materials": {
+    "metal": {
+      "name": "メタル",
+      "description": "プレミアムメタル仕上げ"
+    },
+    "plastic": {
+      "name": "プラスチック",
+      "description": "耐久性強化プラスチック"
+    },
+    "glass": {
+      "name": "グラス",
+      "description": "透明強化ガラス"
+    },
+    "ceramic": {
+      "name": "セラミック",
+      "description": "高級セラミックコーティング"
+    },
+    "anodizing": {
+      "name": "アノダイジング",
+      "description": "光沢のあるメタル表面処理"
+    }
+  },
+  "specLabels": {
+    "weight": "重量",
+    "capacity": "容量",
+    "duration": "使用時間",
+    "pressure": "充填圧力",
+    "battery": "バッテリー",
+    "connectivity": "接続",
+    "waterproof": "防水",
+    "material": "材質",
+    "length": "長さ",
+    "connection": "接続"
+  }
+} 

@@ -1,0 +1,76 @@
+{
+  "introData": {
+    "title": "技術革新紹介",
+    "subtitle": "SALIX テクノロジー",
+    "mainTitle": "革新的技術力",
+    "description": "先端材料技術と精密エンジニアリングが出会い、呼吸技術の新基準を提示",
+    "badge": "技術革新",
+    "titleParts": {
+      "prefix": "革新的",
+      "main": "技術力"
+    },
+    "cards": [
+      {
+        "title": "超軽量・大容量",
+        "subtitle": "イノベーション",
+        "description": "一般携帯用酸素製品比50倍大容量",
+        "metric": "50X",
+        "status": "自社技術"
+      },
+      {
+        "title": "連続供給",
+        "subtitle": "高性能",
+        "description": "規格比最大連続供給",
+        "metric": "2時間",
+        "status": "検証済み"
+      },
+      {
+        "title": "用途別酸素充填",
+        "subtitle": "医療グレード",
+        "description": "医療用グレードまで高純度酸素充填",
+        "metric": "21~99.9%",
+        "status": "用途別充填"
+      },
+      {
+        "title": "精密制御",
+        "subtitle": "精密制御",
+        "description": "独自3段階精密流量調節ディスペンサー",
+        "metric": "3段階",
+        "status": "自社技術"
+      },
+      {
+        "title": "技術ポートフォリオ",
+        "subtitle": "特許ポートフォリオ",
+        "description": "数年間のコア技術ポートフォリオ",
+        "metric": "特許・技術証明",
+        "status": "ポートフォリオ"
+      },
+      {
+        "title": "R&Dエンジニアリング",
+        "subtitle": "国際基準",
+        "description": "技術先導研究および開発",
+        "metric": "R&D",
+        "status": "技術基盤"
+      },
+      {
+        "title": "経済的価格",
+        "subtitle": "コスト効率",
+        "description": "価格最適化および経済性",
+        "metric": "1/30",
+        "status": "経済性"
+      },
+      {
+        "title": "大容量設計",
+        "subtitle": "高容量",
+        "description": "カーボン複合材超軽量最大容量",
+        "metric": "40L",
+        "status": "業界最高"
+      }
+    ],
+    "common": {
+      "verified": "検証済み",
+      "dataLoading": "データ読み込み中",
+      "loadingMessage": "技術紹介カードを読み込み中..."
+    }
+  }
+} 

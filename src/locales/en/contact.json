@@ -1,0 +1,68 @@
+{
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We welcome inquiries about products, subscription services, technical partnerships, and more.",
+    "form": {
+      "name": {
+        "label": "Name",
+        "placeholder": "Enter your name"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter your email"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "Enter your phone number"
+      },
+      "subject": {
+        "label": "Inquiry Type",
+        "placeholder": "Select inquiry type",
+        "options": {
+          "product": "Product Inquiry",
+          "subscription": "Subscription Service Inquiry",
+          "partnership": "Partnership & Collaboration",
+          "investment": "Investment Inquiry",
+          "other": "Other Inquiries"
+        }
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Enter your message"
+      },
+      "submit": "Submit",
+      "submitting": "Sending...",
+      "required": "Required field"
+    },
+    "success": {
+      "title": "Your inquiry has been successfully submitted!",
+      "message": "We will contact you as soon as possible.",
+      "newInquiry": "New Inquiry"
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": {
+        "label": "Address",
+        "line1": "227 Sowon-ro, Deogyang-gu, Goyang-si, Gyeonggi-do",
+        "line2": "Poscom Tower 5F"
+      },
+      "email": {
+        "label": "Email",
+        "value": "info@salixlife.com"
+      },
+      "phone": {
+        "label": "Phone",
+        "value": "+82-10-0000-0000"
+      },
+      "hours": {
+        "label": "Business Hours",
+        "weekday": "Weekdays: 9:00 AM - 6:00 PM",
+        "weekend": "Weekends & Holidays: Closed"
+      }
+    },
+    "meta": {
+      "title": "Contact | SALIX Life",
+      "description": "Contact SALIX Life. We welcome inquiries about products, subscription services, technical partnerships, and more."
+    }
+  }
+} 

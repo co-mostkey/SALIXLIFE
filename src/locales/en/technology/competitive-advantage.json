@@ -1,0 +1,71 @@
+{
+  "competitiveAdvantageData": {
+    "title": "Competitive Advantage",
+    "subtitle": "COMPETITIVE ADVANTAGE",
+    "mainTitle": "Innovative Technology Advantage",
+    "description": "Verify our overwhelming performance and innovative technology compared to competitors",
+    "badge": "Competitive Advantage",
+    "titleParts": {
+      "prefix": "Technology",
+      "main": "Advantage"
+    },
+    "comparisonTitle": "Performance Comparison Analysis",
+    "data": [
+      {
+        "label": "Oxygen Capacity",
+        "ours": 100,
+        "others": 2,
+        "ourValue": "40L",
+        "theirValue": "0.8L",
+        "color": "from-gray-400 to-gray-600"
+      },
+      {
+        "label": "Continuous Supply Time",
+        "ours": 100,
+        "others": 8,
+        "ourValue": "2 Hours",
+        "theirValue": "10 Min",
+        "color": "from-gray-500 to-gray-700"
+      },
+      {
+        "label": "Weight",
+        "ours": 100,
+        "others": 40,
+        "ourValue": "Ultra-light",
+        "theirValue": "Heavy",
+        "color": "from-slate-400 to-slate-600"
+      },
+      {
+        "label": "Portability",
+        "ours": 100,
+        "others": 30,
+        "ourValue": "Excellent",
+        "theirValue": "Limited",
+        "color": "from-zinc-400 to-zinc-600"
+      },
+      {
+        "label": "User Experience",
+        "ours": 100,
+        "others": 10,
+        "ourValue": "Intuitive",
+        "theirValue": "Complex",
+        "color": "from-neutral-400 to-neutral-600"
+      },
+      {
+        "label": "Price Competitiveness",
+        "ours": 100,
+        "others": 3,
+        "ourValue": "Affordable",
+        "theirValue": "Expensive",
+        "color": "from-stone-400 to-stone-600"
+      }
+    ],
+    "common": {
+      "ours": "SALIX O²",
+      "competitors": "Competitors",
+      "advantage": "Advantage",
+      "verified": "Verified",
+      "performanceVerification": "Performance Verified"
+    }
+  }
+} 

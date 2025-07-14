@@ -1,0 +1,235 @@
+{
+  "research": {
+    "board": {
+      "title": "研究掲示板",
+      "subtitle": "SALIX Lifeの最新研究資料と技術開発状況を共有します",
+      "search": {
+        "placeholder": "タイトル、内容、作成者で検索...",
+        "button": "検索"
+      },
+      "category": {
+        "all": "全体",
+        "product": "製品研究",
+        "technology": "技術開発",
+        "iot": "IoT研究",
+        "material": "素材研究",
+        "ai": "AI研究",
+        "medical": "医療研究",
+        "clinical": "臨床研究"
+      },
+      "table": {
+        "no": "番号",
+        "category": "カテゴリー",
+        "title": "タイトル",
+        "author": "作成者",
+        "date": "作成日",
+        "views": "閲覧数",
+        "downloads": "ダウンロード"
+      },
+      "featured": "注目の研究",
+      "writeButton": "投稿作成",
+      "backToList": "一覧に戻る",
+      "noResults": "検索結果が見つかりません",
+      "loading": "読み込み中...",
+      "pagination": {
+        "previous": "前へ",
+        "next": "次へ"
+      },
+      "info": {
+        "totalCount": "合計 {{count}}件の研究資料",
+        "pageInfo": "{{current}}/{{total}} ページ"
+      }
+    },
+    "auth": {
+      "modal": {
+        "title": {
+          "post": "投稿作成認証",
+          "comment": "コメント作成認証",
+          "download": "ファイルダウンロード認証"
+        },
+        "description": {
+          "post": "投稿を作成するにはメール認証が必要です。",
+          "comment": "コメントを作成するにはメール認証が必要です。",
+          "download": "ファイルをダウンロードするにはメール認証が必要です。"
+        },
+        "email": {
+          "label": "メールアドレス",
+          "placeholder": "your@email.com",
+          "invalid": "正しいメールアドレスを入力してください。"
+        },
+        "code": {
+          "label": "認証コード",
+          "placeholder": "000000",
+          "sent": "{{email}}に送信された6桁の認証コードを入力してください。",
+          "invalid": "6桁の認証コードを入力してください。",
+          "timer": "残り時間: {{time}}",
+          "expired": "認証コードの有効期限が切れました。"
+        },
+        "button": {
+          "send": "認証コード送信",
+          "verify": "認証完了",
+          "resend": "認証コード再送信",
+          "resendTimer": "{{seconds}}秒後に再送信",
+          "cancel": "キャンセル",
+          "changeEmail": "メール変更"
+        },
+        "notice": {
+          "protection": "研究資料保護のため、認証されたユーザーのみ掲示板を利用できます。",
+          "admin": "管理者",
+          "verified": "認証済み"
+        },
+        "error": {
+          "general": "エラーが発生しました。もう一度お試しください。",
+          "network": "ネットワークエラーが発生しました。",
+          "rateLimit": "リクエストが多すぎます。しばらくしてからお試しください。"
+        },
+        "success": {
+          "sent": "認証コードが送信されました。",
+          "verified": "メール認証が完了しました。"
+        }
+      },
+      "status": {
+        "authenticated": "認証済み",
+        "logout": "ログアウト"
+      }
+    },
+    "files": {
+      "title": "添付ファイル",
+      "count": "添付ファイル ({{count}})",
+      "upload": {
+        "button": "ファイル選択またはドラッグ＆ドロップ",
+        "hint": "PDF、Word、Excel、画像ファイルなど",
+        "maxSize": "最大10MB",
+        "processing": "アップロード中...",
+        "success": "ファイルがアップロードされました。",
+        "error": "ファイルのアップロードに失敗しました。"
+      },
+      "download": {
+        "button": "ダウンロード",
+        "count": "ダウンロード {{count}}回",
+        "requireAuth": "ファイルダウンロードにはメール認証が必要です。",
+        "processing": "ダウンロード準備中...",
+        "error": "ファイルのダウンロードに失敗しました。"
+      },
+      "type": {
+        "pdf": "PDF",
+        "word": "Word",
+        "excel": "Excel",
+        "powerpoint": "PowerPoint",
+        "image": "画像",
+        "archive": "圧縮ファイル",
+        "text": "テキスト",
+        "unknown": "その他"
+      }
+    },
+    "comments": {
+      "title": "コメント",
+      "count": "コメント ({{count}})",
+      "write": {
+        "button": "コメント作成",
+        "title": "コメント作成",
+        "author": {
+          "label": "作成者",
+          "placeholder": "名前を入力してください"
+        },
+        "email": {
+          "label": "メール",
+          "placeholder": "メールを入力してください"
+        },
+        "content": {
+          "label": "内容",
+          "placeholder": "コメントを入力してください..."
+        },
+        "submit": "コメント登録",
+        "cancel": "キャンセル"
+      },
+      "status": {
+        "verified": "認証済み",
+        "admin": "管理者",
+        "pending": "承認待ち",
+        "approved": "承認済み"
+      },
+      "message": {
+        "empty": "コメントがありません。",
+        "requireAuth": "コメント作成にはメール認証が必要です。",
+        "submitted": "コメントが登録されました。",
+        "pendingApproval": "コメントが登録されました。管理者の承認後に表示されます。",
+        "deleted": "コメントが削除されました。",
+        "error": "コメント処理中にエラーが発生しました。"
+      }
+    },
+    "write": {
+      "title": "研究投稿作成",
+      "subtitle": "新しい研究資料を掲示板に作成してください。",
+      "status": {
+        "new": "新規投稿",
+        "edit": "投稿編集"
+      },
+      "form": {
+        "basic": {
+          "title": "基本情報",
+          "postTitle": {
+            "label": "タイトル",
+            "placeholder": "研究投稿のタイトルを入力してください",
+            "error": "タイトルを入力してください。"
+          },
+          "category": {
+            "label": "カテゴリー",
+            "error": "カテゴリーを選択してください。"
+          },
+          "author": {
+            "label": "作成者",
+            "placeholder": "作成者名を入力してください",
+            "error": "作成者を入力してください。"
+          }
+        },
+        "content": {
+          "title": "研究内容",
+          "summary": {
+            "label": "要約",
+            "placeholder": "研究内容の簡単な要約を入力してください（2-3行程度）",
+            "error": "要約を入力してください。"
+          },
+          "body": {
+            "label": "内容",
+            "placeholder": "研究内容を詳しく作成してください\n\n例:\n1. 研究目的\n2. 研究方法\n3. 主な結果\n4. 結論と今後の計画\n\nツールバーを使用してテキストを装飾し、画像やリンクを追加できます。",
+            "error": "内容を入力してください。"
+          }
+        },
+        "additional": {
+          "title": "追加情報",
+          "tags": {
+            "label": "タグ",
+            "placeholder": "タグをカンマで区切って入力してください（例：酸素供給、医療機器、研究開発）",
+            "hint": "カンマ（,）で区切って複数のタグを入力できます。"
+          },
+          "featured": {
+            "label": "主要研究として表示",
+            "description": "このオプションを選択すると、投稿が主要研究として表示されます。（管理者のみ設定可能）"
+          }
+        },
+        "files": {
+          "title": "添付ファイル"
+        },
+        "required": "必須入力項目",
+        "submit": {
+          "create": "投稿作成",
+          "update": "投稿更新",
+          "cancel": "キャンセル",
+          "processing": "処理中..."
+        }
+      },
+      "message": {
+        "success": {
+          "created": "投稿が正常に作成されました。",
+          "updated": "投稿が正常に更新されました。"
+        },
+        "error": {
+          "create": "投稿の作成に失敗しました。",
+          "update": "投稿の更新に失敗しました。",
+          "validation": "すべての必須項目を入力してください。"
+        }
+      }
+    }
+  }
+} 

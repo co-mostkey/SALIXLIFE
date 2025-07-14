@@ -1,0 +1,208 @@
+{
+  "title": "제품 소개",
+  "description": "샐릭스 라이프의 혁신적인 호흡기 제품군을 소개합니다. 휴대용 호흡기, 인이어형 호흡기, 연결호스 등 다양한 제품을 만나보세요.",
+  "common": {
+    "specs": {
+      "cylinderVolume": "200cc",
+      "pressure": "200bar",
+      "oxygenCapacity": "40L", 
+      "weight": "초경량",
+      "purity": "99.9% - 산소 농도 조절 가능",
+      "duration": "2시간 연속 - 용량 대비",
+      "capacity_multiplier": "50배",
+      "price_advantage": "경제성 혁신"
+    },
+    "features": {
+      "capacity": "200cc 기본 제품 기준 50배 대용량으로 경쟁사 대비 50배 많은 산소",
+      "duration": "2시간 연속 공급 가능", 
+      "price": "독자적 3단계 디스펜서 및 카본 복합소재로, 초소형, 초경량 혁신",
+      "design": "전 세대를 아우를 모던, 레트로퓨처리즘 디자인",
+      "control": "세계 최초 초경량 휴대용 산소의 3단계 정밀 유량 조절"
+    }
+  },
+  "innovations": [
+    {
+      "title": "50배 대용량 혁신",
+      "description": "40L 대용량으로 경쟁사 대비 최대 50배 많은 산소, 2시간 연속 공급 가능",
+      "icon": "🚀"
+    },
+    {
+      "title": "친환경, 경제성 혁신", 
+      "description": "친환경적 비즈니스모델, 기존 산소 사용자들의 활동을 제한하지 않는 혁신",
+      "icon": "💎"
+    },
+    {
+      "title": "레트로퓨처리즘 인이어형 산소 공급기",
+      "description": "인이어 형태의 비강 공급기, 초경량 복합재 고압용기",
+      "icon": "🎨"
+    },
+    {
+      "title": "3단계 정밀 유량조절",
+      "description": "세계 최초 휴대용 산소의 3단계 정밀 유량 조절, 용도별 맞춤 공급",
+      "icon": "⚙️"
+    }
+  ],
+  "slides": {
+    "intro": {
+      "title": "기술 혁신 소개"
+    },
+    "coreInnovations": {
+      "title": "핵심 혁신"
+    },
+    "techSpecs": {
+      "title": "기술 사양"
+    },
+    "competitiveAdvantage": {
+      "title": "경쟁 우위"
+    },
+    "futureVision": {
+      "title": "미래 비전"
+    }
+  },
+  "comparison": {
+    "categories": [
+      {
+        "label": "산소 용량",
+        "ours": 100,
+        "others": 2,
+        "ourValue": "40L", 
+        "theirValue": "0.8L",
+        "unit": "L"
+      },
+      {
+        "label": "연속 공급시간",
+        "ours": 100,
+        "others": 8,
+        "ourValue": "2시간",
+        "theirValue": "10분",
+        "unit": "시간"
+      },
+      {
+        "label": "가격 경쟁력", 
+        "ours": 100,
+        "others": 3,
+        "ourValue": "1/30 수준",
+        "theirValue": "고가",
+        "unit": ""
+      }
+    ]
+  },
+  "device": {
+    "name": "SALIX O2 실린더",
+    "subtitle": "Salix Trek-Safe Oxygen",
+    "description": "화재 현장, 밀폐 공간, 고산 지대, 의료 응급 상황 등에서 즉각적으로 활용 가능한 혁신적인 호흡기기입니다.",
+    "features": [
+      "200cc 부피, 200bar 압력",
+      "초경량 디자인",
+      "안정 시 40분 이상 사용",
+      "트레킹 사용자 위치 추적 및 안전 알림 업데이트 예정"
+    ],
+    "specs": {
+      "weight": "카본 복합소재, 초경량 모델",
+      "capacity": "40L",
+      "duration": "40분+",
+      "pressure": "200bar"
+    }
+  },
+  "deviceear": {
+    "name": "인이어형 호흡기",
+    "subtitle": "Compact Ear-fit Design",
+    "description": "일상생활 중 답답함을 느끼지 않도록 설계된 초소형 호흡 보조 장치입니다.",
+    "features": [
+      "인체공학적 인이어 설계",
+      "초경량 무게",
+      "트레킹 사용자용 위치 연동",
+      "기존 휴대용 산소 대비 연속 사용 시간 우위"
+    ],
+    "specs": {
+      "weight": "초경량 디자인",
+      "battery": "옵션에 따른 선택",
+      "connectivity": "퀵 커넥트",
+      "waterproof": "IPX4"
+    }
+  },
+  "devicecontact": {
+    "name": "연결 호스",
+    "subtitle": "Professional Connection",
+    "description": "SALIX O2 실린더와 인이어형 호흡기를 연결하여 더 안정적인 산소 공급을 가능하게 합니다.",
+    "features": [
+      "의료용 실리콘 재질",
+      "자유로운 길이 선택",
+      "퀵 커넥트 시스템",
+      "높은 내구성"
+    ],
+    "specs": {
+      "material": "의료용 실리콘",
+      "length": "0.5-2m 선택 가능",
+      "connection": "퀵 커넥트",
+      "pressure": "의료 등급"
+    }
+  },
+  "ui": {
+    "currentSelection": "현재 선택된 옵션",
+    "colorSelection": "컬러 선택",
+    "materialSelection": "재질 선택",
+    "mainFeatures": "주요 특징",
+    "techSpecs": "기술 사양",
+    "specialBenefits": "특별 혜택",
+    "benefits": [
+      "무료 배송 (전국)",
+      "1년 무상 A/S",
+      "30일 무조건 환불",
+      "전문가 교육 서비스"
+    ],
+    "zoomHint": "Ctrl + 휠: 줌 인/아웃"
+  },
+  "colors": {
+    "silverMetal": "실버 메탈",
+    "premiumGold": "프리미엄 골드",
+    "deepBlack": "딥 블랙",
+    "sapphireBlue": "사파이어 블루",
+    "emerald": "에메랄드",
+    "roseGold": "로즈 골드",
+    "titanium": "티타늄",
+    "purpleHaze": "퍼플 헤이즈",
+    "crimsonRed": "크림슨 레드",
+    "oceanBlue": "오션 블루",
+    "sunsetOrange": "선셋 오렌지",
+    "forestGreen": "포레스트 그린",
+    "lavender": "라벤더",
+    "coralPink": "코랄 핑크",
+    "midnightBlue": "미드나이트 블루",
+    "mintGreen": "민트 그린"
+  },
+  "materials": {
+    "metal": {
+      "name": "메탈",
+      "description": "프리미엄 메탈 마감"
+    },
+    "plastic": {
+      "name": "플라스틱",
+      "description": "내구성 강화 플라스틱"
+    },
+    "glass": {
+      "name": "글래스",
+      "description": "투명 강화 글래스"
+    },
+    "ceramic": {
+      "name": "세라믹",
+      "description": "고급 세라믹 코팅"
+    },
+    "anodizing": {
+      "name": "아노다이징",
+      "description": "반짝거리는 메탈 표면 처리"
+    }
+  },
+  "specLabels": {
+    "weight": "무게",
+    "capacity": "용량",
+    "duration": "사용시간",
+    "pressure": "충전압력",
+    "battery": "배터리",
+    "connectivity": "연결",
+    "waterproof": "방수",
+    "material": "재질",
+    "length": "길이",
+    "connection": "연결"
+  }
+} 

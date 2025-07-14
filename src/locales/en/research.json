@@ -1,0 +1,235 @@
+{
+  "research": {
+    "board": {
+      "title": "Research Board",
+      "subtitle": "Share the latest research materials and technology development status of SALIX Life",
+      "search": {
+        "placeholder": "Search by title, content, author...",
+        "button": "Search"
+      },
+      "category": {
+        "all": "All",
+        "product": "Product Research",
+        "technology": "Technology Development",
+        "iot": "IoT Research",
+        "material": "Material Research",
+        "ai": "AI Research",
+        "medical": "Medical Research",
+        "clinical": "Clinical Research"
+      },
+      "table": {
+        "no": "No.",
+        "category": "Category",
+        "title": "Title",
+        "author": "Author",
+        "date": "Date",
+        "views": "Views",
+        "downloads": "Downloads"
+      },
+      "featured": "Featured Research",
+      "writeButton": "Write Post",
+      "backToList": "Back to List",
+      "noResults": "No search results found",
+      "loading": "Loading...",
+      "pagination": {
+        "previous": "Previous",
+        "next": "Next"
+      },
+      "info": {
+        "totalCount": "Total {{count}} research materials",
+        "pageInfo": "Page {{current}}/{{total}}"
+      }
+    },
+    "auth": {
+      "modal": {
+        "title": {
+          "post": "Post Writing Authentication",
+          "comment": "Comment Writing Authentication",
+          "download": "File Download Authentication"
+        },
+        "description": {
+          "post": "Email verification is required to write a post.",
+          "comment": "Email verification is required to write a comment.",
+          "download": "Email verification is required to download files."
+        },
+        "email": {
+          "label": "Email Address",
+          "placeholder": "your@email.com",
+          "invalid": "Please enter a valid email address."
+        },
+        "code": {
+          "label": "Verification Code",
+          "placeholder": "000000",
+          "sent": "Please enter the 6-digit verification code sent to {{email}}.",
+          "invalid": "Please enter a 6-digit verification code.",
+          "timer": "Time remaining: {{time}}",
+          "expired": "The verification code has expired."
+        },
+        "button": {
+          "send": "Send Verification Code",
+          "verify": "Complete Verification",
+          "resend": "Resend Code",
+          "resendTimer": "Resend in {{seconds}}s",
+          "cancel": "Cancel",
+          "changeEmail": "Change Email"
+        },
+        "notice": {
+          "protection": "Only authenticated users can use the board to protect research materials.",
+          "admin": "Admin",
+          "verified": "Verified"
+        },
+        "error": {
+          "general": "An error occurred. Please try again.",
+          "network": "A network error occurred.",
+          "rateLimit": "Too many requests. Please try again later."
+        },
+        "success": {
+          "sent": "Verification code has been sent.",
+          "verified": "Email verification completed."
+        }
+      },
+      "status": {
+        "authenticated": "Authenticated",
+        "logout": "Logout"
+      }
+    },
+    "files": {
+      "title": "Attachments",
+      "count": "Attachments ({{count}})",
+      "upload": {
+        "button": "Select files or drag and drop",
+        "hint": "PDF, Word, Excel, Image files, etc.",
+        "maxSize": "Max 10MB",
+        "processing": "Uploading...",
+        "success": "File uploaded successfully.",
+        "error": "Failed to upload file."
+      },
+      "download": {
+        "button": "Download",
+        "count": "{{count}} downloads",
+        "requireAuth": "Email verification is required to download files.",
+        "processing": "Preparing download...",
+        "error": "Failed to download file."
+      },
+      "type": {
+        "pdf": "PDF",
+        "word": "Word",
+        "excel": "Excel",
+        "powerpoint": "PowerPoint",
+        "image": "Image",
+        "archive": "Archive",
+        "text": "Text",
+        "unknown": "Other"
+      }
+    },
+    "comments": {
+      "title": "Comments",
+      "count": "Comments ({{count}})",
+      "write": {
+        "button": "Write Comment",
+        "title": "Write Comment",
+        "author": {
+          "label": "Author",
+          "placeholder": "Enter your name"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "Enter your email"
+        },
+        "content": {
+          "label": "Content",
+          "placeholder": "Enter your comment..."
+        },
+        "submit": "Submit Comment",
+        "cancel": "Cancel"
+      },
+      "status": {
+        "verified": "Verified",
+        "admin": "Admin",
+        "pending": "Pending Approval",
+        "approved": "Approved"
+      },
+      "message": {
+        "empty": "No comments yet.",
+        "requireAuth": "Email verification is required to write comments.",
+        "submitted": "Comment has been submitted.",
+        "pendingApproval": "Comment submitted. It will be displayed after admin approval.",
+        "deleted": "Comment has been deleted.",
+        "error": "An error occurred while processing the comment."
+      }
+    },
+    "write": {
+      "title": "Write Research Post",
+      "subtitle": "Create a new research post on the board.",
+      "status": {
+        "new": "New Post",
+        "edit": "Edit Post"
+      },
+      "form": {
+        "basic": {
+          "title": "Basic Information",
+          "postTitle": {
+            "label": "Title",
+            "placeholder": "Enter the research post title",
+            "error": "Please enter a title."
+          },
+          "category": {
+            "label": "Category",
+            "error": "Please select a category."
+          },
+          "author": {
+            "label": "Author",
+            "placeholder": "Enter author name",
+            "error": "Please enter an author."
+          }
+        },
+        "content": {
+          "title": "Research Content",
+          "summary": {
+            "label": "Summary",
+            "placeholder": "Enter a brief summary of the research (2-3 lines)",
+            "error": "Please enter a summary."
+          },
+          "body": {
+            "label": "Content",
+            "placeholder": "Write detailed research content\n\nExample:\n1. Research Purpose\n2. Research Methods\n3. Key Results\n4. Conclusions and Future Plans\n\nUse the toolbar to format text and add images or links.",
+            "error": "Please enter content."
+          }
+        },
+        "additional": {
+          "title": "Additional Information",
+          "tags": {
+            "label": "Tags",
+            "placeholder": "Enter tags separated by commas (e.g., oxygen supply, medical device, R&D)",
+            "hint": "Enter multiple tags separated by commas (,)."
+          },
+          "featured": {
+            "label": "Mark as Featured Research",
+            "description": "Selecting this option will mark the post as featured research. (Admin only)"
+          }
+        },
+        "files": {
+          "title": "Attachments"
+        },
+        "required": "Required fields",
+        "submit": {
+          "create": "Create Post",
+          "update": "Update Post",
+          "cancel": "Cancel",
+          "processing": "Processing..."
+        }
+      },
+      "message": {
+        "success": {
+          "created": "Post created successfully.",
+          "updated": "Post updated successfully."
+        },
+        "error": {
+          "create": "Failed to create post.",
+          "update": "Failed to update post.",
+          "validation": "Please fill in all required fields."
+        }
+      }
+    }
+  }
+} 

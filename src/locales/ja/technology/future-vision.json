@@ -1,0 +1,91 @@
+{
+  "futureVisionData": {
+    "title": "フューチャービジョン",
+    "subtitle": "フューチャービジョン",
+    "mainTitle": "技術革新の未来",
+    "description": "継続的R&Dによる呼吸技術のグローバルリーダー",
+    "badge": "フューチャービジョン",
+    "titleParts": {
+      "prefix": "技術革新の",
+      "main": "未来"
+    },
+    "futureTech": [
+      {
+        "title": "AI最適化",
+        "description": "AIベースのパーソナル酸素供給",
+        "color": "from-gray-400 to-gray-600",
+        "bgColor": "from-white to-gray-50",
+        "borderColor": "border-gray-200",
+        "status": "開発中"
+      },
+      {
+        "title": "IoT接続",
+        "description": "IoTによるリアルタイム健康監視",
+        "color": "from-slate-400 to-slate-600",
+        "bgColor": "from-white to-slate-50",
+        "borderColor": "border-slate-200",
+        "status": "計画中"
+      },
+      {
+        "title": "ナノテクノロジー",
+        "description": "軽量で効率的なシステム",
+        "color": "from-zinc-400 to-zinc-600",
+        "bgColor": "from-white to-zinc-50",
+        "borderColor": "border-zinc-200",
+        "status": "研究段階"
+      },
+      {
+        "title": "ウェアラブル統合",
+        "description": "スマートデバイスとの統合",
+        "color": "from-neutral-400 to-neutral-600",
+        "bgColor": "from-white to-neutral-50",
+        "borderColor": "border-neutral-200",
+        "status": "設計段階"
+      }
+    ],
+    "roadmap": [
+      {
+        "year": "2025年",
+        "title": "AIパーソナライゼーション",
+        "description": "ユーザー固有アルゴリズム開始",
+        "color": "from-gray-400 to-gray-600",
+        "bgColor": "from-white to-gray-50",
+        "borderColor": "border-gray-200",
+        "status": "開発"
+      },
+      {
+        "year": "2026年",
+        "title": "IoTプラットフォーム",
+        "description": "健康監視プラットフォーム開始",
+        "color": "from-slate-400 to-slate-600",
+        "bgColor": "from-white to-slate-50",
+        "borderColor": "border-slate-200",
+        "status": "計画"
+      },
+      {
+        "year": "2027年",
+        "title": "ナノ材料",
+        "description": "次世代軽量材料",
+        "color": "from-zinc-400 to-zinc-600",
+        "bgColor": "from-white to-zinc-50",
+        "borderColor": "border-zinc-200",
+        "status": "研究"
+      },
+      {
+        "year": "2028年",
+        "title": "グローバル展開",
+        "description": "世界市場拡大",
+        "color": "from-neutral-400 to-neutral-600",
+        "bgColor": "from-white to-neutral-50",
+        "borderColor": "border-neutral-200",
+        "status": "戦略"
+      }
+    ],
+    "common": {
+      "verified": "検証済み",
+      "inProgress": "進行中",
+      "roadmap": "ロードマップ",
+      "futureTech": "未来技術"
+    }
+  }
+} 

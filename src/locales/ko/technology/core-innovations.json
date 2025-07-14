@@ -1,0 +1,60 @@
+{
+  "coreInnovationsData": {
+    "title": "핵심 혁신",
+    "subtitle": "CORE INNOVATIONS",
+    "mainTitle": "SALIX O² 핵심 혁신 기술",
+    "description": "독창적인 엔지니어링과 첨단 소재 기술로 구현한 차세대 호흡 솔루션의 핵심 혁신",
+    "badge": "Core Innovation",
+    "titleParts": {
+      "prefix": "핵심",
+      "main": "혁신 기술"
+    },
+    "innovations": [
+      {
+        "title": "50배 초경량 대용량 혁신",
+        "subtitle": "Ultra High Capacity",
+        "description": "40L 대용량으로 경쟁사 대비 최대 50배 많은 산소, 2시간 연속 공급 가능, 초경량 디자인으로 휴대성 향상",
+        "metric": "50x",
+        "status": "자사 기술"
+      },
+      {
+        "title": "친환경 경제성 혁신",
+        "subtitle": "Eco-Economic Innovation",
+        "description": "친환경적 비즈니스모델, 기존 산소 사용자들의 활동을 제한하지 않는 혁신",
+        "metric": "100%",
+        "status": "혁신 모델"
+      },
+      {
+        "title": "레트로퓨처리즘 디자인",
+        "subtitle": "Retro-Futuristic Design",
+        "description": "인이어 형태의 비강 공급기, 초경량 복합재 고압용기",
+        "metric": "3세대",
+        "status": "디자인 특허"
+      },
+      {
+        "title": "3단계 정밀 유량조절",
+        "subtitle": "Precision Flow Control",
+        "description": "세계 최초 휴대용 산소의 3단계 정밀 유량 조절, 용도별 맞춤 공급",
+        "metric": "3단계",
+        "status": "자사 기술"
+      },
+      {
+        "title": "카본 복합소재",
+        "subtitle": "Carbon Composite",
+        "description": "초경량 카본 복합소재로 휴대성과 내구성을 동시에 확보",
+        "metric": "초경량",
+        "status": "자사 기술"
+      },
+      {
+        "title": "용도별 산소 충전",
+        "subtitle": "Medical Grade Purity",
+        "description": "고산지대 사용에서 의료용 등급까지 고순도 산소로 안전하고 효과적인 호흡 지원",
+        "metric": "21~99.9%",
+        "status": "맞춤형 산소 충전"
+      }
+    ],
+    "common": {
+      "verified": "검증 완료"
+    }
+  }
+} 

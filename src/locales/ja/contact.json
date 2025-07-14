@@ -1,0 +1,68 @@
+{
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "製品情報、サブスクリプションサービス、技術協力など、様々なお問い合わせを受け付けております。",
+    "form": {
+      "name": {
+        "label": "お名前",
+        "placeholder": "お名前を入力してください"
+      },
+      "email": {
+        "label": "メールアドレス",
+        "placeholder": "メールアドレスを入力してください"
+      },
+      "phone": {
+        "label": "電話番号",
+        "placeholder": "電話番号を入力してください"
+      },
+      "subject": {
+        "label": "お問い合わせ種別",
+        "placeholder": "お問い合わせ種別を選択してください",
+        "options": {
+          "product": "製品に関するお問い合わせ",
+          "subscription": "サブスクリプションサービスに関するお問い合わせ",
+          "partnership": "提携・協力に関するお問い合わせ",
+          "investment": "投資に関するお問い合わせ",
+          "other": "その他のお問い合わせ"
+        }
+      },
+      "message": {
+        "label": "お問い合わせ内容",
+        "placeholder": "お問い合わせ内容を入力してください"
+      },
+      "submit": "送信する",
+      "submitting": "送信中...",
+      "required": "必須項目"
+    },
+    "success": {
+      "title": "お問い合わせを受け付けました！",
+      "message": "できるだけ早くご連絡させていただきます。",
+      "newInquiry": "新規お問い合わせ"
+    },
+    "info": {
+      "title": "連絡先情報",
+      "address": {
+        "label": "住所",
+        "line1": "京畿道高陽市徳陽区小願路227",
+        "line2": "ポスコムタワー5階"
+      },
+      "email": {
+        "label": "メール",
+        "value": "info@salixlife.com"
+      },
+      "phone": {
+        "label": "電話",
+        "value": "+82-10-0000-0000"
+      },
+      "hours": {
+        "label": "営業時間",
+        "weekday": "平日: 午前9時 - 午後6時",
+        "weekend": "週末・祝日: 休業"
+      }
+    },
+    "meta": {
+      "title": "お問い合わせ | SALIX Life",
+      "description": "SALIX Lifeへお問い合わせください。製品情報、サブスクリプションサービス、技術協力など、様々なお問い合わせを受け付けております。"
+    }
+  }
+} 

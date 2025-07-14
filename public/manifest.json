@@ -1,0 +1,44 @@
+{
+  "name": "샐릭스 라이프",
+  "short_name": "SalixLife",
+  "description": "혁신적인 휴대용 호흡기 기술로 생명을 지키는 안전한 호흡을 제공합니다",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1E1A",
+  "theme_color": "#007F5F",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/salix-new-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/salix-new-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["health", "medical", "technology"],
+  "lang": "ko-KR",
+  "scope": "/",
+  "id": "salixlife"
+} 

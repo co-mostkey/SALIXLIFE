@@ -1,0 +1,88 @@
+{
+  "competitiveAdvantageData": {
+    "title": "경쟁 우위",
+    "subtitle": "COMPETITIVE ADVANTAGE",
+    "mainTitle": "혁신적 기술 우위",
+    "description": "경쟁사 대비 압도적인 성능과 혁신적인 기술력을 확인하세요",
+    "badge": "Competitive Advantage",
+    "titleParts": {
+      "prefix": "기술",
+      "main": "우위"
+    },
+    "comparisonTitle": "성능 비교 분석",
+    "data": [
+      {
+        "label": "산소 용량",
+        "ours": 100,
+        "others": 2,
+        "ourValue": "40L",
+        "theirValue": "0.8L",
+        "color": "from-gray-400 to-gray-600"
+      },
+      {
+        "label": "연속 공급 시간",
+        "ours": 100,
+        "others": 8,
+        "ourValue": "2시간",
+        "theirValue": "10분",
+        "color": "from-gray-500 to-gray-700"
+      },
+      {
+        "label": "무게",
+        "ours": 100,
+        "others": 40,
+        "ourValue": "초경량",
+        "theirValue": "무거움",
+        "color": "from-slate-400 to-slate-600"
+      },
+      {
+        "label": "휴대성",
+        "ours": 100,
+        "others": 30,
+        "ourValue": "우수",
+        "theirValue": "제한적",
+        "color": "from-zinc-400 to-zinc-600"
+      },
+      {
+        "label": "사용자 경험",
+        "ours": 100,
+        "others": 10,
+        "ourValue": "직관적",
+        "theirValue": "복잡함",
+        "color": "from-neutral-400 to-neutral-600"
+      },
+      {
+        "label": "기술 혁신",
+        "ours": 100,
+        "others": 25,
+        "ourValue": "혁신적",
+        "theirValue": "전통적",
+        "color": "from-stone-400 to-stone-600"
+      }
+    ],
+    "advantages": [
+      {
+        "title": "50배 용량 우위",
+        "description": "경쟁사 대비 50배 많은 산소를 공급하는 혁신적인 대용량 기술",
+        "metric": "50배"
+      },
+      {
+        "title": "초경량 설계",
+        "description": "성능 저하 없이 전례 없는 휴대성을 구현한 첨단 소재 기술",
+        "metric": "초경량"
+      },
+      {
+        "title": "장시간 작동",
+        "description": "경쟁사 평균 10분 대비 2시간 이상 연속 작동 가능",
+        "metric": "2시간+"
+      }
+    ],
+    "common": {
+      "ours": "SALIX O²",
+      "competitors": "경쟁사",
+      "advantage": "우위 확보",
+      "verified": "검증 완료",
+      "performanceVerification": "성능 검증"
+    }
+  }
+} 

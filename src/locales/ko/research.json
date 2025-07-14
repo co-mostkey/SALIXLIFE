@@ -1,0 +1,235 @@
+{
+  "research": {
+    "board": {
+      "title": "연구게시판",
+      "subtitle": "SALIX Life의 최신 연구 자료와 기술 개발 현황을 공유합니다",
+      "search": {
+        "placeholder": "제목, 내용, 작성자 검색...",
+        "button": "검색"
+      },
+      "category": {
+        "all": "전체",
+        "product": "제품연구",
+        "technology": "기술개발",
+        "iot": "IoT연구",
+        "material": "소재연구",
+        "ai": "AI연구",
+        "medical": "의료연구",
+        "clinical": "임상연구"
+      },
+      "table": {
+        "no": "번호",
+        "category": "카테고리",
+        "title": "제목",
+        "author": "작성자",
+        "date": "작성일",
+        "views": "조회수",
+        "downloads": "다운로드"
+      },
+      "featured": "주요 연구",
+      "writeButton": "게시글 작성",
+      "backToList": "목록으로 돌아가기",
+      "noResults": "검색 결과가 없습니다",
+      "loading": "로딩 중...",
+      "pagination": {
+        "previous": "이전",
+        "next": "다음"
+      },
+      "info": {
+        "totalCount": "총 {{count}}개의 연구 자료",
+        "pageInfo": "{{current}}/{{total}} 페이지"
+      }
+    },
+    "auth": {
+      "modal": {
+        "title": {
+          "post": "게시글 작성 인증",
+          "comment": "댓글 작성 인증",
+          "download": "파일 다운로드 인증"
+        },
+        "description": {
+          "post": "게시글 작성을 위해 이메일 인증이 필요합니다.",
+          "comment": "댓글 작성을 위해 이메일 인증이 필요합니다.",
+          "download": "파일 다운로드를 위해 이메일 인증이 필요합니다."
+        },
+        "email": {
+          "label": "이메일 주소",
+          "placeholder": "your@email.com",
+          "invalid": "올바른 이메일 주소를 입력해주세요."
+        },
+        "code": {
+          "label": "인증 코드",
+          "placeholder": "000000",
+          "sent": "{{email}}로 발송된 6자리 인증 코드를 입력해주세요.",
+          "invalid": "6자리 인증 코드를 입력해주세요.",
+          "timer": "남은 시간: {{time}}",
+          "expired": "인증 코드가 만료되었습니다."
+        },
+        "button": {
+          "send": "인증 코드 발송",
+          "verify": "인증 완료",
+          "resend": "인증 코드 재발송",
+          "resendTimer": "{{seconds}}초 후 재발송",
+          "cancel": "취소",
+          "changeEmail": "이메일 변경"
+        },
+        "notice": {
+          "protection": "연구 자료 보호를 위해 인증된 사용자만 게시판을 이용할 수 있습니다.",
+          "admin": "관리자",
+          "verified": "인증됨"
+        },
+        "error": {
+          "general": "오류가 발생했습니다. 다시 시도해주세요.",
+          "network": "네트워크 오류가 발생했습니다.",
+          "rateLimit": "너무 많은 요청입니다. 잠시 후 다시 시도해주세요."
+        },
+        "success": {
+          "sent": "인증 코드가 발송되었습니다.",
+          "verified": "이메일 인증이 완료되었습니다."
+        }
+      },
+      "status": {
+        "authenticated": "인증됨",
+        "logout": "로그아웃"
+      }
+    },
+    "files": {
+      "title": "첨부파일",
+      "count": "첨부파일 ({{count}})",
+      "upload": {
+        "button": "파일 선택 또는 드래그 앤 드롭",
+        "hint": "PDF, Word, Excel, 이미지 파일 등",
+        "maxSize": "최대 10MB",
+        "processing": "업로드 중...",
+        "success": "파일이 업로드되었습니다.",
+        "error": "파일 업로드에 실패했습니다."
+      },
+      "download": {
+        "button": "다운로드",
+        "count": "다운로드 {{count}}회",
+        "requireAuth": "파일 다운로드는 이메일 인증 후 가능합니다.",
+        "processing": "다운로드 준비 중...",
+        "error": "파일 다운로드에 실패했습니다."
+      },
+      "type": {
+        "pdf": "PDF",
+        "word": "Word",
+        "excel": "Excel",
+        "powerpoint": "PowerPoint",
+        "image": "이미지",
+        "archive": "압축파일",
+        "text": "텍스트",
+        "unknown": "기타"
+      }
+    },
+    "comments": {
+      "title": "댓글",
+      "count": "댓글 ({{count}})",
+      "write": {
+        "button": "댓글 작성",
+        "title": "댓글 작성",
+        "author": {
+          "label": "작성자",
+          "placeholder": "이름을 입력하세요"
+        },
+        "email": {
+          "label": "이메일",
+          "placeholder": "이메일을 입력하세요"
+        },
+        "content": {
+          "label": "내용",
+          "placeholder": "댓글을 입력하세요..."
+        },
+        "submit": "댓글 등록",
+        "cancel": "취소"
+      },
+      "status": {
+        "verified": "인증됨",
+        "admin": "관리자",
+        "pending": "승인 대기",
+        "approved": "승인됨"
+      },
+      "message": {
+        "empty": "댓글이 없습니다.",
+        "requireAuth": "댓글 작성은 이메일 인증 후 가능합니다.",
+        "submitted": "댓글이 등록되었습니다.",
+        "pendingApproval": "댓글이 등록되었습니다. 관리자 승인 후 표시됩니다.",
+        "deleted": "댓글이 삭제되었습니다.",
+        "error": "댓글 처리 중 오류가 발생했습니다."
+      }
+    },
+    "write": {
+      "title": "연구게시글 작성",
+      "subtitle": "새로운 연구 자료를 게시판에 작성하세요.",
+      "status": {
+        "new": "새 게시글",
+        "edit": "게시글 수정"
+      },
+      "form": {
+        "basic": {
+          "title": "기본 정보",
+          "postTitle": {
+            "label": "제목",
+            "placeholder": "연구게시글 제목을 입력하세요",
+            "error": "제목을 입력해주세요."
+          },
+          "category": {
+            "label": "카테고리",
+            "error": "카테고리를 선택해주세요."
+          },
+          "author": {
+            "label": "작성자",
+            "placeholder": "작성자명을 입력하세요",
+            "error": "작성자를 입력해주세요."
+          }
+        },
+        "content": {
+          "title": "연구 내용",
+          "summary": {
+            "label": "요약",
+            "placeholder": "연구 내용의 간단한 요약을 입력하세요 (2-3줄 정도)",
+            "error": "요약을 입력해주세요."
+          },
+          "body": {
+            "label": "내용",
+            "placeholder": "연구 내용을 상세히 작성하세요\n\n예시:\n1. 연구 목적\n2. 연구 방법\n3. 주요 결과\n4. 결론 및 향후 계획\n\n툴바를 사용하여 텍스트를 꾸미고, 이미지나 링크를 추가할 수 있습니다.",
+            "error": "내용을 입력해주세요."
+          }
+        },
+        "additional": {
+          "title": "추가 정보",
+          "tags": {
+            "label": "태그",
+            "placeholder": "태그를 쉼표로 구분하여 입력하세요 (예: 산소공급, 의료기기, 연구개발)",
+            "hint": "쉼표(,)로 구분하여 여러 태그를 입력할 수 있습니다."
+          },
+          "featured": {
+            "label": "주요 연구로 표시",
+            "description": "이 옵션을 선택하면 게시글이 주요 연구로 표시됩니다. (관리자만 설정 가능)"
+          }
+        },
+        "files": {
+          "title": "첨부파일"
+        },
+        "required": "필수 입력 항목",
+        "submit": {
+          "create": "게시글 작성",
+          "update": "게시글 수정",
+          "cancel": "취소",
+          "processing": "작성 중..."
+        }
+      },
+      "message": {
+        "success": {
+          "created": "게시글이 성공적으로 작성되었습니다.",
+          "updated": "게시글이 성공적으로 수정되었습니다."
+        },
+        "error": {
+          "create": "게시글 작성에 실패했습니다.",
+          "update": "게시글 수정에 실패했습니다.",
+          "validation": "모든 필수 항목을 입력해주세요."
+        }
+      }
+    }
+  }
+} 

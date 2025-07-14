@@ -1,0 +1,86 @@
+{
+  "title": "회사소개",
+  "slides": {
+    "companyIntro": {
+      "title": "회사 소개",
+      "subtitle": "생명을 지키는 안전한 호흡을 제공하는 것이 저희의 사명입니다.",
+      "mission": {
+        "title": "사명",
+        "description": "생명을 지키는 안전한 호흡 기술 제공"
+      },
+      "vision": {
+        "title": "비전", 
+        "description": "호흡 기술 분야의 글로벌 리더"
+      },
+      "overview": {
+        "title": "회사 개요",
+        "description": "샐릭스 라이프는 2024년 12월 설립된 휴대용 호흡 기술 전문 기업입니다. 경기도 고양시 덕양구 소원로 227 포스콤타워 5층에 위치하며, 다양한 환경에서 \"생명을 지키는 안전한 호흡\"을 제공합니다.",
+        "stats": {
+          "founded": "2024",
+          "foundedLabel": "설립연도",
+          "launch": "2025", 
+          "launchLabel": "론칭 예정",
+          "markets": "3개국",
+          "marketsLabel": "진출 예정"
+        }
+      },
+      "gallery": {
+        "salix": "SALIX 바로가기",
+        "nepal": "2025년 네팔 고산 트레킹 시장 진출 파트너십 진행중",
+        "japan": "2025년 일본 진출 엔터테인먼트 파트너십 진행중"
+      },
+      "quote": "전 세계의 모든 인구가 호흡하는 것을 돕기 위해 끊임없이 노력하고 있습니다"
+    },
+    "businessStrategy": {
+      "title": "사업 전략 및 미래 계획",
+      "subtitle": "혁신적인 제품과 글로벌 전략으로 미래를 준비합니다",
+      "innovation": {
+        "title": "혁신적인 호흡기기",
+        "products": {
+          "compact": {
+            "title": "초소형 장치",
+            "description": "만성 폐질환자나 응급 환자를 위한 초소형 호흡기 장치"
+          },
+          "affordable": {
+            "title": "합리적인 가격",
+            "description": "40L 산소를 10,000원에 충전할 수 있는 구독 모델"
+          },
+          "smart": {
+            "title": "스마트 연동",
+            "description": "스마트폰 앱과 연동하여 사용 패턴을 분석하는 IoT 기술"
+          }
+        }
+      },
+      "globalStrategy": {
+        "title": "글로벌 전략",
+        "markets": {
+          "nepal": {
+            "title": "2025 네팔 진출",
+            "description": "고산 트레킹의 필수 안전 파트너로 포지셔닝한 초소형 산소공급기를 통해 북미·유럽 시장 진출을 위한 전략적 파트너십을 구축합니다."
+          },
+          "japan": {
+            "title": "일본 시장 진출", 
+            "description": "J-ROCK 엔터테인먼트와 협력하여 작고 귀여운 휴대용 굿즈 모델을 개발하고 현지 네트워크를 통한 브랜드 포트폴리오를 다각화합니다."
+          }
+        }
+      },
+      "futurePlans": {
+        "title": "미래 계획",
+        "plans": {
+          "ai": {
+            "title": "AI 기반 호흡 관리",
+            "description": "2027년까지 사용자의 건강 데이터를 분석하여 산소 공급량을 자동 조절하는 AI 엔진을 개발합니다."
+          },
+          "eco": {
+            "title": "친환경 기술 도입",
+            "description": "2030년까지 제품 라인업의 90%를 순환 경제 모델로 전환할 목표입니다."
+          }
+        }
+      },
+      "cta": {
+        "description": "샐릭스 라이프는 호흡 기술 분야에서 인류의 안전과 건강을 선도하는 글로벌 리더로 도약하겠습니다.",
+        "button": "문의하기"
+      }
+    }
+  }
+} 

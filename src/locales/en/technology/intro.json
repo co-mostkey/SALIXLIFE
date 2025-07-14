@@ -1,0 +1,76 @@
+{
+  "introData": {
+    "title": "Technology Innovation Introduction",
+    "subtitle": "SALIX TECHNOLOGY",
+    "mainTitle": "Innovative Technology",
+    "description": "Advanced materials and precision engineering meet to set new standards for respiratory technology.",
+    "badge": "Technology Innovation",
+    "titleParts": {
+      "prefix": "Innovative",
+      "main": "Technology"
+    },
+    "cards": [
+      {
+        "title": "Ultra-light, High Capacity",
+        "subtitle": "Innovation",
+        "description": "50x larger capacity vs conventional portable oxygen",
+        "metric": "50X",
+        "status": "Our Technology"
+      },
+      {
+        "title": "Continuous Supply",
+        "subtitle": "High Performance",
+        "description": "Maximum continuous supply per specification",
+        "metric": "2 Hours",
+        "status": "Verified"
+      },
+      {
+        "title": "Purpose-specific O₂ Fill",
+        "subtitle": "Medical Grade",
+        "description": "High-purity oxygen fill up to medical grade",
+        "metric": "21~99.9%",
+        "status": "Purpose-specific"
+      },
+      {
+        "title": "Precision Control",
+        "subtitle": "Precision Control",
+        "description": "Proprietary 3-stage precision flow dispenser",
+        "metric": "3 Stages",
+        "status": "Our Technology"
+      },
+      {
+        "title": "Tech Portfolio",
+        "subtitle": "Patent Portfolio",
+        "description": "Years of core technology portfolio",
+        "metric": "Patents, Tech Proof",
+        "status": "Portfolio"
+      },
+      {
+        "title": "R&D Engineering",
+        "subtitle": "International Standard",
+        "description": "Technology-leading research and development",
+        "metric": "R&D",
+        "status": "Tech Foundation"
+      },
+      {
+        "title": "Economic Pricing",
+        "subtitle": "Cost Efficiency",
+        "description": "Price optimization and cost efficiency",
+        "metric": "1/30",
+        "status": "Economic"
+      },
+      {
+        "title": "High Capacity Design",
+        "subtitle": "High Capacity",
+        "description": "Carbon composite ultra-light maximum capacity",
+        "metric": "40L",
+        "status": "Industry Best"
+      }
+    ],
+    "common": {
+      "verified": "Verified",
+      "dataLoading": "Data Loading",
+      "loadingMessage": "Loading technology introduction cards..."
+    }
+  }
+} 

@@ -1,0 +1,132 @@
+{
+  "techSpecsData": {
+    "title": "기술 사양",
+    "subtitle": "TECH SPECIFICATIONS",
+    "mainTitle": "상세 기술 사양",
+    "description": "엄격한 기준과 최첨단 기술로 구현된 혁신적인 사양들을 확인하세요",
+    "badge": "Technical Specifications",
+    "titleParts": {
+      "prefix": "기술",
+      "main": "사양"
+    },
+    "categories": {
+      "basic": {
+        "title": "기본 사양",
+        "icon": "🔧"
+      },
+      "technical": {
+        "title": "기술 사양",
+        "icon": "⚙️"
+      },
+      "smart": {
+        "title": "스마트 기능(예정)",
+        "icon": "📱"
+      },
+      "safety": {
+        "title": "안전 기능",
+        "icon": "🛡️"
+      }
+    },
+    "specs": {
+      "basic": [
+        {
+          "label": "무게",
+          "value": "초경량",
+          "highlight": true
+        },
+        {
+          "label": "실린더 부피",
+          "value": "200cc"
+        },
+        {
+          "label": "충전압력",
+          "value": "200bar",
+          "highlight": true
+        },
+        {
+          "label": "사용 시간",
+          "value": "40분 이상"
+        },
+        {
+          "label": "호흡 장치",
+          "value": "인이어 형태"
+        }
+      ],
+      "technical": [
+        {
+          "label": "산소 농도",
+          "value": "30% 산소",
+          "highlight": true
+        },
+        {
+          "label": "총 산소량",
+          "value": "40L (기본 모델)"
+        },
+        {
+          "label": "유량",
+          "value": "3단계 조절"
+        },
+        {
+          "label": "작동 온도",
+          "value": "-20°C ~ 50°C"
+        },
+        {
+          "label": "보관 온도",
+          "value": "-40°C ~ 60°C"
+        }
+      ],
+      "smart": [
+        {
+          "label": "연결",
+          "value": "Bluetooth 5.0"
+        },
+        {
+          "label": "앱 호환",
+          "value": "iOS/Android"
+        },
+        {
+          "label": "센서",
+          "value": "압력, 온도, 가속도"
+        },
+        {
+          "label": "알림",
+          "value": "실시간 상태 알림"
+        },
+        {
+          "label": "데이터",
+          "value": "클라우드 동기화"
+        }
+      ],
+      "safety": [
+        {
+          "label": "인증",
+          "value": "별도문의",
+          "highlight": true
+        },
+        {
+          "label": "밸브",
+          "value": "3중 안전 밸브"
+        },
+        {
+          "label": "재질",
+          "value": "의료용 티타늄"
+        },
+        {
+          "label": "방수",
+          "value": "IP67 등급"
+        },
+        {
+          "label": "보증",
+          "value": "5년 무상 보증"
+        }
+      ]
+    },
+    "common": {
+      "highlight": "핵심 기술",
+      "standard": "표준 사양",
+      "verified": "검증 완료",
+      "majorSpec": "주요 사양",
+      "basicSpec": "기본 사양"
+    }
+  }
+} 

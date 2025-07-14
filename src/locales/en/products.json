@@ -1,0 +1,214 @@
+{
+  "title": "Products",
+  "description": "Introducing SALIX Life's innovative respiratory product line. Meet various products including portable respirators, in-ear type respirators, and connecting hoses.",
+  "common": {
+    "specs": {
+      "cylinderVolume": "200cc",
+      "pressure": "200bar",
+      "oxygenCapacity": "40L",
+      "weight": "Ultra-lightweight",
+      "purity": "99.9% - Adjustable oxygen concentration",
+      "duration": "2 hours continuous - Capacity ratio",
+      "capacity_multiplier": "50x",
+      "price_advantage": "Economic innovation"
+    },
+    "features": {
+      "capacity": "50x large capacity based on 200cc basic product, 50x more oxygen than competitors",
+      "duration": "2 hours continuous supply possible",
+      "price": "Proprietary 3-stage dispenser and carbon composite material, ultra-compact, ultra-lightweight innovation",
+      "design": "Modern, retro-futuristic design for all generations",
+      "control": "World's first ultra-lightweight portable oxygen 3-stage precision flow control"
+    }
+  },
+  "innovations": [
+    {
+      "title": "50x Large Capacity Innovation",
+      "description": "40L large capacity, up to 50x more oxygen than competitors, 2 hours continuous supply possible",
+      "icon": "🚀"
+    },
+    {
+      "title": "Eco-friendly, Economic Innovation",
+      "description": "Eco-friendly business model, innovation that doesn't restrict existing oxygen users' activities",
+      "icon": "💎"
+    },
+    {
+      "title": "Retro-futuristic In-ear Oxygen Supplier",
+      "description": "In-ear type nasal supplier, ultra-lightweight composite high-pressure container",
+      "icon": "🎨"
+    },
+    {
+      "title": "3-stage Precision Flow Control",
+      "description": "World's first 3-stage precision flow control for portable oxygen, customized supply by purpose",
+      "icon": "⚙️"
+    }
+  ],
+  "comparison": {
+    "categories": [
+      {
+        "label": "Oxygen Capacity",
+        "ours": 100,
+        "others": 2,
+        "ourValue": "40L",
+        "theirValue": "0.8L",
+        "unit": "L"
+      },
+      {
+        "label": "Continuous Supply Time",
+        "ours": 100,
+        "others": 8,
+        "ourValue": "2 hours",
+        "theirValue": "10 minutes",
+        "unit": "hours"
+      },
+      {
+        "label": "Price Competitiveness",
+        "ours": 100,
+        "others": 3,
+        "ourValue": "1/30 level",
+        "theirValue": "Expensive",
+        "unit": ""
+      }
+    ]
+  },
+  "device": {
+    "name": "SALIX O2 Cylinder",
+    "subtitle": "Salix Trek-Safe Oxygen",
+    "description": "An innovative respiratory device that can be immediately utilized in fire scenes, confined spaces, high altitudes, medical emergency situations, etc.",
+    "features": [
+      "200cc volume, 200bar pressure",
+      "Ultra-light design",
+      "40+ minutes use when stable",
+      "Trekking user location tracking and safety alerts update planned"
+    ],
+    "specs": {
+      "weight": "Carbon composite material, ultra-light model",
+      "capacity": "40L",
+      "duration": "40+ minutes",
+      "pressure": "200bar"
+    },
+    "price": "₩297,000",
+    "originalPrice": "₩350,000"
+  },
+  "deviceear": {
+    "name": "In-ear Respirator",
+    "subtitle": "Compact Ear-fit Design",
+    "description": "An ultra-compact respiratory aid device designed so you don't feel stuffy during daily life.",
+    "features": [
+      "Ergonomic in-ear design",
+      "Ultra-light weight",
+      "Location linking for trekking users",
+      "Continuous use time advantage over existing portable oxygen"
+    ],
+    "specs": {
+      "weight": "Ultra-light design",
+      "battery": "Optional selection",
+      "connectivity": "Bluetooth 5.0",
+      "waterproof": "IPX4"
+    },
+    "price": "₩149,000",
+    "originalPrice": "₩199,000"
+  },
+  "devicecontact": {
+    "name": "Connection Hose",
+    "subtitle": "Professional Connection",
+    "description": "Connects SALIX O2 cylinder and in-ear respirator for more stable oxygen supply.",
+    "features": [
+      "Medical silicone material",
+      "Free length selection",
+      "Quick connect system",
+      "High durability"
+    ],
+    "specs": {
+      "material": "Medical silicone",
+      "length": "0.5-2m selectable",
+      "connection": "Quick connect",
+      "pressure": "Medical grade"
+    },
+    "price": "₩79,000",
+    "originalPrice": "₩99,000"
+  },
+  "ui": {
+    "currentSelection": "Currently selected option",
+    "colorSelection": "Color selection",
+    "materialSelection": "Material selection",
+    "mainFeatures": "Main features",
+    "techSpecs": "Technical specifications",
+    "specialBenefits": "Special benefits",
+    "benefits": [
+      "Free shipping (nationwide)",
+      "1-year free A/S",
+      "30-day unconditional refund",
+      "Expert training service"
+    ],
+    "zoomHint": "Ctrl + Wheel: Zoom in/out"
+  },
+  "colors": {
+    "silverMetal": "Silver Metal",
+    "premiumGold": "Premium Gold",
+    "deepBlack": "Deep Black",
+    "sapphireBlue": "Sapphire Blue",
+    "emerald": "Emerald",
+    "roseGold": "Rose Gold",
+    "titanium": "Titanium",
+    "purpleHaze": "Purple Haze",
+    "crimsonRed": "Crimson Red",
+    "oceanBlue": "Ocean Blue",
+    "sunsetOrange": "Sunset Orange",
+    "forestGreen": "Forest Green",
+    "lavender": "Lavender",
+    "coralPink": "Coral Pink",
+    "midnightBlue": "Midnight Blue",
+    "mintGreen": "Mint Green"
+  },
+  "materials": {
+    "metal": {
+      "name": "Metal",
+      "description": "Premium metal finish"
+    },
+    "plastic": {
+      "name": "Plastic",
+      "description": "Durability-enhanced plastic"
+    },
+    "glass": {
+      "name": "Glass",
+      "description": "Transparent tempered glass"
+    },
+    "ceramic": {
+      "name": "Ceramic",
+      "description": "Premium ceramic coating"
+    },
+    "anodizing": {
+      "name": "Anodizing",
+      "description": "Shiny metal surface treatment"
+    }
+  },
+  "specLabels": {
+    "weight": "Weight",
+    "capacity": "Capacity",
+    "duration": "Usage time",
+    "pressure": "Charging pressure",
+    "battery": "Battery",
+    "connectivity": "Connection",
+    "waterproof": "Waterproof",
+    "material": "Material",
+    "length": "Length",
+    "connection": "Connection"
+  },
+  "slides": {
+    "intro": {
+      "title": "Technology Innovation Introduction"
+    },
+    "coreInnovations": {
+      "title": "Core Innovations"
+    },
+    "techSpecs": {
+      "title": "Technical Specifications"
+    },
+    "competitiveAdvantage": {
+      "title": "Competitive Advantage"
+    },
+    "futureVision": {
+      "title": "Future Vision"
+    }
+  }
+} 

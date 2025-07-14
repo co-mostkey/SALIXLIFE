@@ -1,0 +1,118 @@
+{
+  "nav": {
+    "products": "Products",
+    "technology": "Technology",
+    "about": "About",
+    "research": "Research",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "SALIX O²",
+      "subtitle": "The Smallest Innovation That Saves Lives",
+      "description": "Leading the future of respiratory technology through cutting-edge technology and scientific research.",
+      "cta": {
+        "products": "View Products in Detail",
+        "about": "Check Technical Specifications",
+        "learnMore": "Learn More"
+      }
+    },
+    "dashboard": {
+      "product": "Product Introduction",
+      "market": "Market Analysis",
+      "company": "Company Information",
+      "features": "Key Features",
+      "media": "Media",
+      "backToHome": "Back to Home"
+    },
+    "sections": {
+      "productLine": "SALIX O² Series",
+      "productSubtitle": "Product Lineup",
+      "globalStrategy": "Global Market Strategy",
+      "marketSubtitle": "Market Analysis & Strategy",
+      "companyInfo": "Salix Life",
+      "companySubtitle": "Company Introduction",
+      "innovativeFeatures": "Innovative Features",
+      "featuresSubtitle": "Key Features",
+      "mediaCenter": "Media Center",
+      "mediaSubtitle": "Videos & News"
+    },
+    "mission": {
+      "title": "Safe Breathing That Saves Lives",
+      "description": "Salix Life is a portable respiratory technology company established in 2024. Located in Deokyang-gu, Goyang-si, Gyeonggi-do, we lead human safety and health with innovative respiratory technology."
+    },
+    "features": {
+      "title": "Innovative Respiratory Technology",
+      "badges": {
+        "capacity": "50x Large Capacity",
+        "duration": "2 Hours Continuous",
+        "price": "1/30 Price",
+        "competitor": "vs Competitors"
+      },
+      "status": {
+        "innovation": "Innovation in Progress",
+        "launch": "2025 Launch"
+      },
+      "portable": {
+        "title": "Ultra-Compact Portability",
+        "description": "Compact design that can be carried anywhere, anytime"
+      },
+      "affordable": {
+        "title": "Reasonable Price",
+        "description": "Subscription model that can charge 40L of oxygen for ₩29,700 per month"
+      },
+      "smart": {
+        "title": "Smart Technology",
+        "description": "Usage pattern analysis and personalized service through smartphone app integration"
+      }
+    },
+    "global": {
+      "title": "Global Market Strategy",
+      "nepal": {
+        "title": "Nepal Trekking Market",
+        "description": "Altitude sickness solution specialist",
+        "rental": "Rental model: $100 deposit, $50 usage fee"
+      },
+      "japan": {
+        "title": "Japan Entertainment Market",
+        "description": "Utilizing goods & fandom culture",
+        "partnership": "J-ROCK partnership completed"
+      }
+    },
+    "partnership": {
+      "title": "Strategic Partnership",
+      "united": "United Asset Management",
+      "jrock": "J-ROCK Entertainment",
+      "nepal": "Nepal Local Partners"
+    }
+  },
+  "theme": {
+    "toggle": {
+      "light": "Switch to Light Mode",
+      "dark": "Switch to Dark Mode"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} SALIX Life. All rights reserved.",
+    "address": "5F Poscom Tower, 227 Sowon-ro, Deogyang-gu, Goyang-si, Gyeonggi-do",
+    "companyDescription": "The smallest innovation that saves lives",
+    "products": {
+      "title": "Products",
+      "productIntro": "Product Introduction",
+      "techInnovation": "Technology Innovation",
+      "safety": "Safety"
+    },
+    "company": {
+      "title": "Company",
+      "aboutUs": "About Us",
+      "investors": "Investor Relations",
+      "contact": "Contact"
+    },
+    "investorAlert": {
+      "title": "Coming Soon",
+      "message": "Investor relations page is currently under construction.",
+      "submessage": "For investment information, please contact us via email provided on the site.",
+      "confirm": "OK"
+    }
+  }
+} 

@@ -1,0 +1,60 @@
+{
+  "coreInnovationsData": {
+    "title": "Core Innovation",
+    "subtitle": "CORE INNOVATIONS",
+    "mainTitle": "SALIX O² Core Innovation Technologies",
+    "description": "Core innovations of next-generation respiratory solutions realized through original engineering and advanced materials technology",
+    "badge": "Core Innovation",
+    "titleParts": {
+      "prefix": "Core",
+      "main": "Innovation Technologies"
+    },
+    "innovations": [
+      {
+        "title": "50x Ultra-light High Capacity Innovation",
+        "subtitle": "Ultra High Capacity",
+        "description": "40L high capacity with up to 50x more oxygen than competitors, 2-hour continuous supply, enhanced portability with ultra-light design",
+        "metric": "50x",
+        "status": "Our Technology"
+      },
+      {
+        "title": "Eco-Economic Innovation",
+        "subtitle": "Eco-Economic Innovation",
+        "description": "Eco-friendly business model, innovation that doesn't restrict existing oxygen users' activities",
+        "metric": "100%",
+        "status": "Innovation Model"
+      },
+      {
+        "title": "Retro-Futurism Design",
+        "subtitle": "Retro-Futuristic Design",
+        "description": "In-ear nasal supply device, ultra-light composite high-pressure vessel",
+        "metric": "3rd Gen",
+        "status": "Design Patent"
+      },
+      {
+        "title": "3-Stage Precision Flow Control",
+        "subtitle": "Precision Flow Control",
+        "description": "World's first portable oxygen 3-stage precision flow control, customized supply by purpose",
+        "metric": "3 Stages",
+        "status": "Our Technology"
+      },
+      {
+        "title": "Carbon Composite Material",
+        "subtitle": "Carbon Composite",
+        "description": "Ultra-light carbon composite materials ensuring both portability and durability",
+        "metric": "Ultra-Light",
+        "status": "Our Technology"
+      },
+      {
+        "title": "Purpose-specific Oxygen Fill",
+        "subtitle": "Medical Grade Purity",
+        "description": "From high-altitude use to medical-grade high-purity oxygen for safe and effective respiratory support",
+        "metric": "21~99.9%",
+        "status": "Custom Oxygen Fill"
+      }
+    ],
+    "common": {
+      "verified": "Verified"
+    }
+  }
+} 

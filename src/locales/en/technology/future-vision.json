@@ -1,0 +1,91 @@
+{
+  "futureVisionData": {
+    "title": "Future Vision",
+    "subtitle": "FUTURE VISION",
+    "mainTitle": "Future of Technology Innovation",
+    "description": "Global leader in respiratory tech through continuous R&D",
+    "badge": "Future Vision",
+    "titleParts": {
+      "prefix": "Future of Tech",
+      "main": "Innovation"
+    },
+    "futureTech": [
+      {
+        "title": "AI Optimization",
+        "description": "AI-based personalized oxygen supply",
+        "color": "from-gray-400 to-gray-600",
+        "bgColor": "from-white to-gray-50",
+        "borderColor": "border-gray-200",
+        "status": "In Development"
+      },
+      {
+        "title": "IoT Connect",
+        "description": "Real-time health monitoring via IoT",
+        "color": "from-slate-400 to-slate-600",
+        "bgColor": "from-white to-slate-50",
+        "borderColor": "border-slate-200",
+        "status": "Planned"
+      },
+      {
+        "title": "Nanotechnology",
+        "description": "Lightweight and efficient systems",
+        "color": "from-zinc-400 to-zinc-600",
+        "bgColor": "from-white to-zinc-50",
+        "borderColor": "border-zinc-200",
+        "status": "Research Phase"
+      },
+      {
+        "title": "Wearable Integration",
+        "description": "Integration with smart devices",
+        "color": "from-neutral-400 to-neutral-600",
+        "bgColor": "from-white to-neutral-50",
+        "borderColor": "border-neutral-200",
+        "status": "Design Phase"
+      }
+    ],
+    "roadmap": [
+      {
+        "year": "2025",
+        "title": "AI Personalization",
+        "description": "User-specific algorithms launch",
+        "color": "from-gray-400 to-gray-600",
+        "bgColor": "from-white to-gray-50",
+        "borderColor": "border-gray-200",
+        "status": "Development"
+      },
+      {
+        "year": "2026",
+        "title": "IoT Platform",
+        "description": "Health monitoring platform launch",
+        "color": "from-slate-400 to-slate-600",
+        "bgColor": "from-white to-slate-50",
+        "borderColor": "border-slate-200",
+        "status": "Planning"
+      },
+      {
+        "year": "2027",
+        "title": "Nano Materials",
+        "description": "Next-gen lightweight materials",
+        "color": "from-zinc-400 to-zinc-600",
+        "bgColor": "from-white to-zinc-50",
+        "borderColor": "border-zinc-200",
+        "status": "Research"
+      },
+      {
+        "year": "2028",
+        "title": "Global Expansion",
+        "description": "Worldwide market expansion",
+        "color": "from-neutral-400 to-neutral-600",
+        "bgColor": "from-white to-neutral-50",
+        "borderColor": "border-neutral-200",
+        "status": "Strategy"
+      }
+    ],
+    "common": {
+      "verified": "Verified",
+      "inProgress": "In Progress",
+      "roadmap": "Roadmap",
+      "futureTech": "Future Technology"
+    }
+  }
+} 

@@ -1,0 +1,132 @@
+{
+  "techSpecsData": {
+    "title": "Technical Specifications",
+    "subtitle": "TECH SPECIFICATIONS",
+    "mainTitle": "Detailed Technical Specifications",
+    "description": "Check out innovative specifications implemented with strict standards and cutting-edge technology",
+    "badge": "Technical Specifications",
+    "titleParts": {
+      "prefix": "Technical",
+      "main": "Specifications"
+    },
+    "categories": {
+      "basic": {
+        "title": "Basic Specifications",
+        "icon": "🔧"
+      },
+      "technical": {
+        "title": "Technical Specifications",
+        "icon": "⚙️"
+      },
+      "smart": {
+        "title": "Smart Features (Planned)",
+        "icon": "📱"
+      },
+      "safety": {
+        "title": "Safety Features",
+        "icon": "🛡️"
+      }
+    },
+    "specs": {
+      "basic": [
+        {
+          "label": "Weight",
+          "value": "Ultra-light",
+          "highlight": true
+        },
+        {
+          "label": "Cylinder Volume",
+          "value": "200cc"
+        },
+        {
+          "label": "Charging Pressure",
+          "value": "200bar",
+          "highlight": true
+        },
+        {
+          "label": "Usage Time",
+          "value": "40+ minutes"
+        },
+        {
+          "label": "Breathing Device",
+          "value": "In-ear Type"
+        }
+      ],
+      "technical": [
+        {
+          "label": "Oxygen Concentration",
+          "value": "30% Oxygen",
+          "highlight": true
+        },
+        {
+          "label": "Total Oxygen Volume",
+          "value": "40L (Basic Model)"
+        },
+        {
+          "label": "Flow Rate",
+          "value": "3-stage Control"
+        },
+        {
+          "label": "Operating Temperature",
+          "value": "-20°C ~ 50°C"
+        },
+        {
+          "label": "Storage Temperature",
+          "value": "-40°C ~ 60°C"
+        }
+      ],
+      "smart": [
+        {
+          "label": "Connectivity",
+          "value": "Bluetooth 5.0"
+        },
+        {
+          "label": "App Compatibility",
+          "value": "iOS/Android"
+        },
+        {
+          "label": "Sensors",
+          "value": "Pressure, Temperature, Accelerometer"
+        },
+        {
+          "label": "Notifications",
+          "value": "Real-time Status Alerts"
+        },
+        {
+          "label": "Data",
+          "value": "Cloud Sync"
+        }
+      ],
+      "safety": [
+        {
+          "label": "Certification",
+          "value": "Contact for Details",
+          "highlight": true
+        },
+        {
+          "label": "Valve",
+          "value": "Triple Safety Valve"
+        },
+        {
+          "label": "Material",
+          "value": "Medical-grade Titanium"
+        },
+        {
+          "label": "Water Resistance",
+          "value": "IP67 Rating"
+        },
+        {
+          "label": "Warranty",
+          "value": "5-year Free Warranty"
+        }
+      ]
+    },
+    "common": {
+      "highlight": "Core Technology",
+      "standard": "Standard Spec",
+      "verified": "Verified",
+      "majorSpec": "Major Specification",
+      "basicSpec": "Basic Specification"
+    }
+  }
+} 
